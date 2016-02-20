@@ -69,6 +69,9 @@ p = Presentation(go_duration=(3,'seconds'),viewports=[viewport1])
 
 p2 = Presentation(go_duration=(2,'seconds'), viewports=[viewport2])
 
+# Open file for writing data
+file = open("Recordingfile.txt", "w")
+
 # Flickering method
 def TopFlick(t):
     return int(t*TopRate*2.0) % 2
@@ -86,6 +89,11 @@ def appear():
     return True
 
 def appear_t(t):
+    flag = True
+    if flag:
+        writedata(t, 1)
+        flag = False
+
     if p.is_in_go_loop():
         return False
     else:
@@ -93,6 +101,10 @@ def appear_t(t):
 
 def disapp(t):
     return False
+
+def writedata(time, target_flag):
+    line = str(time) + '\t' + str(target_flag) + '\n'
+    file.write(line)
 
 p.add_controller(TopTarget,'on', FunctionController(during_go_func=TopFlick))
 p.add_controller(BotTarget,'on', FunctionController(during_go_func=BotFlick))
@@ -108,3 +120,4 @@ for i in range(0,numTrial):
     p.go()
     p2.go()
 
+file.close()
