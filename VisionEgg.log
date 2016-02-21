@@ -1,0 +1,320 @@
+2016-02-21 18:06:04,700 (4572) INFO: 180 frames were drawn.
+Mean IFI was 16.67 msec (60.00 fps), longest IFI was 16.75 msec.
+histogram:
+   161                                              *                     
+   143                                              *                     
+   125                                              *                     
+   107                                              *                     
+    90                                              *                     
+    72                                              *                     
+    54                                              *                     
+    36                                              *                     
+    18                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   179   0    0    0    0  
+
+2016-02-21 18:06:06,717 (4572) INFO: 121 frames were drawn.
+Mean IFI was 16.67 msec (60.00 fps), longest IFI was 16.69 msec.
+histogram:
+   108                                              *                     
+    96                                              *                     
+    84                                              *                     
+    72                                              *                     
+    60                                              *                     
+    48                                              *                     
+    36                                              *                     
+    24                                              *                     
+    12                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   120   0    0    0    0  
+
+2016-02-21 18:06:09,717 (4572) INFO: 180 frames were drawn.
+Mean IFI was 16.67 msec (59.97 fps), longest IFI was 17.81 msec.
+histogram:
+   161                                              *                     
+   143                                              *                     
+   125                                              *                     
+   107                                              *                     
+    90                                              *                     
+    72                                              *                     
+    54                                              *                     
+    36                                              *                     
+    18                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   179   0    0    0    0  
+
+2016-02-21 18:06:11,734 (4572) INFO: 121 frames were drawn.
+Mean IFI was 16.67 msec (60.00 fps), longest IFI was 16.71 msec.
+histogram:
+   108                                              *                     
+    96                                              *                     
+    84                                              *                     
+    72                                              *                     
+    60                                              *                     
+    48                                              *                     
+    36                                              *                     
+    24                                              *                     
+    12                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   120   0    0    0    0  
+
+2016-02-21 18:06:14,750 (4572) INFO: 181 frames were drawn.
+Mean IFI was 16.67 msec (60.00 fps), longest IFI was 16.71 msec.
+histogram:
+   162                                              *                     
+   144                                              *                     
+   126                                              *                     
+   108                                              *                     
+    90                                              *                     
+    72                                              *                     
+    54                                              *                     
+    36                                              *                     
+    18                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   180   0    0    0    0  
+
+2016-02-21 18:06:16,769 (4572) INFO: 121 frames were drawn.
+Mean IFI was 16.67 msec (60.00 fps), longest IFI was 16.77 msec.
+histogram:
+   108                                              *                     
+    96                                              *                     
+    84                                              *                     
+    72                                              *                     
+    60                                              *                     
+    48                                              *                     
+    36                                              *                     
+    24                                              *                     
+    12                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   120   0    0    0    0  
+
+2016-02-21 18:06:19,786 (4572) INFO: 181 frames were drawn.
+Mean IFI was 16.67 msec (60.00 fps), longest IFI was 16.79 msec.
+histogram:
+   162                                              *                     
+   144                                              *                     
+   126                                              *                     
+   108                                              *                     
+    90                                              *                     
+    72                                              *                     
+    54                                              *                     
+    36                                              *                     
+    18                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   180   0    0    0    0  
+
+2016-02-21 18:06:21,802 (4572) INFO: 121 frames were drawn.
+Mean IFI was 16.67 msec (60.00 fps), longest IFI was 17.35 msec.
+histogram:
+   107                                              *                     
+    95                                              *                     
+    83                                              *                     
+    71                                              *                     
+    60                                              *                     
+    48                                              *                     
+    36                                              *                     
+    24                                              *                     
+    12                                              *                     
+     0                                         *    *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    1   119   0    0    0    0  
+
+2016-02-21 18:06:24,819 (4572) INFO: 181 frames were drawn.
+Mean IFI was 16.67 msec (60.00 fps), longest IFI was 16.70 msec.
+histogram:
+   162                                              *                     
+   144                                              *                     
+   126                                              *                     
+   108                                              *                     
+    90                                              *                     
+    72                                              *                     
+    54                                              *                     
+    36                                              *                     
+    18                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   180   0    0    0    0  
+
+2016-02-21 18:06:26,835 (4572) INFO: 121 frames were drawn.
+Mean IFI was 16.67 msec (60.00 fps), longest IFI was 16.75 msec.
+histogram:
+   108                                              *                     
+    96                                              *                     
+    84                                              *                     
+    72                                              *                     
+    60                                              *                     
+    48                                              *                     
+    36                                              *                     
+    24                                              *                     
+    12                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   120   0    0    0    0  
+
+2016-02-21 18:06:29,852 (4572) INFO: 181 frames were drawn.
+Mean IFI was 16.67 msec (60.00 fps), longest IFI was 16.69 msec.
+histogram:
+   162                                              *                     
+   144                                              *                     
+   126                                              *                     
+   108                                              *                     
+    90                                              *                     
+    72                                              *                     
+    54                                              *                     
+    36                                              *                     
+    18                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   180   0    0    0    0  
+
+2016-02-21 18:06:31,868 (4572) INFO: 121 frames were drawn.
+Mean IFI was 16.67 msec (60.00 fps), longest IFI was 16.71 msec.
+histogram:
+   108                                              *                     
+    96                                              *                     
+    84                                              *                     
+    72                                              *                     
+    60                                              *                     
+    48                                              *                     
+    36                                              *                     
+    24                                              *                     
+    12                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   120   0    0    0    0  
+
+2016-02-21 18:06:34,887 (4572) INFO: 181 frames were drawn.
+Mean IFI was 16.67 msec (60.00 fps), longest IFI was 16.70 msec.
+histogram:
+   162                                              *                     
+   144                                              *                     
+   126                                              *                     
+   108                                              *                     
+    90                                              *                     
+    72                                              *                     
+    54                                              *                     
+    36                                              *                     
+    18                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   180   0    0    0    0  
+
+2016-02-21 18:06:36,904 (4572) INFO: 121 frames were drawn.
+Mean IFI was 16.67 msec (60.00 fps), longest IFI was 16.70 msec.
+histogram:
+   108                                              *                     
+    96                                              *                     
+    84                                              *                     
+    72                                              *                     
+    60                                              *                     
+    48                                              *                     
+    36                                              *                     
+    24                                              *                     
+    12                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   120   0    0    0    0  
+
+2016-02-21 18:06:39,921 (4572) INFO: 181 frames were drawn.
+Mean IFI was 16.67 msec (59.99 fps), longest IFI was 16.75 msec.
+histogram:
+   162                                              *                     
+   144                                              *                     
+   126                                              *                     
+   108                                              *                     
+    90                                              *                     
+    72                                              *                     
+    54                                              *                     
+    36                                              *                     
+    18                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   180   0    0    0    0  
+
+2016-02-21 18:06:41,937 (4572) INFO: 121 frames were drawn.
+Mean IFI was 16.67 msec (60.00 fps), longest IFI was 16.71 msec.
+histogram:
+   108                                              *                     
+    96                                              *                     
+    84                                              *                     
+    72                                              *                     
+    60                                              *                     
+    48                                              *                     
+    36                                              *                     
+    24                                              *                     
+    12                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   120   0    0    0    0  
+
+2016-02-21 18:06:44,953 (4572) INFO: 181 frames were drawn.
+Mean IFI was 16.67 msec (60.00 fps), longest IFI was 16.71 msec.
+histogram:
+   162                                              *                     
+   144                                              *                     
+   126                                              *                     
+   108                                              *                     
+    90                                              *                     
+    72                                              *                     
+    54                                              *                     
+    36                                              *                     
+    18                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   180   0    0    0    0  
+
+2016-02-21 18:06:46,970 (4572) INFO: 121 frames were drawn.
+Mean IFI was 16.67 msec (60.00 fps), longest IFI was 16.70 msec.
+histogram:
+   108                                              *                     
+    96                                              *                     
+    84                                              *                     
+    72                                              *                     
+    60                                              *                     
+    48                                              *                     
+    36                                              *                     
+    24                                              *                     
+    12                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   120   0    0    0    0  
+
+2016-02-21 18:06:49,986 (4572) INFO: 181 frames were drawn.
+Mean IFI was 16.67 msec (60.00 fps), longest IFI was 16.69 msec.
+histogram:
+   162                                              *                     
+   144                                              *                     
+   126                                              *                     
+   108                                              *                     
+    90                                              *                     
+    72                                              *                     
+    54                                              *                     
+    36                                              *                     
+    18                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   180   0    0    0    0  
+
+2016-02-21 18:06:52,005 (4572) INFO: 121 frames were drawn.
+Mean IFI was 16.67 msec (60.00 fps), longest IFI was 16.72 msec.
+histogram:
+   108                                              *                     
+    96                                              *                     
+    84                                              *                     
+    72                                              *                     
+    60                                              *                     
+    48                                              *                     
+    36                                              *                     
+    24                                              *                     
+    12                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   120   0    0    0    0  
+
